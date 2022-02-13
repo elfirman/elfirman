@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Ismail Firman**.\
+
+Saya seorang **Android Developer** dan juga **owner** di [Lapakgrafi](https://www.lapakgrafi.com/).\
+
+Saya bertanggung jawab pada seluruh kegiatan di LapakGrafi.com [ecommerce pertama diindonesia](https://lapakgrafi.com).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ismailfirman/)ku ya.
