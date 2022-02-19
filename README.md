@@ -1,24 +1,30 @@
-<!--
-**elfirman/elfirman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi! Welcome, I'm Ismail Firman
+A android developer, designer, and owner [**LapakGrafi.com**](https://www.lapakgrafi.com), from Indonesia.
+[**My Website**](https://www.ismailfirman.tech)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=elfirman&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=57A773&title_color=FFFFFF&text_color=FFFFFF&icon_color=98D44B)
 
-# Halo semua! 
+---
+## 💌 Keep In Touch With Me
 
-Perkenalkan nama saya **Ismail Firman**.\
+✔️ **I'm currently open for every opportunity!**
+Interested in working with me? Need help on your project? Or just wanna say hi? I’d love to hear you about that.
+**contact@ismailfirman.tech**
 
-Saya seorang **Android Developer** dan juga **owner** di [Lapakgrafi](https://www.lapakgrafi.com/).\
+### Socials
+- LinkedIn: [elfirman](http://linkedin.com/in/elfirman)
+- Twitter: [@elfirman](http://twitter.com/elfirman)
+- Instagram: [@ismailfirman](http://instagram.com/ismailfirman)
 
-Saya bertanggung jawab pada seluruh kegiatan di LapakGrafi.com [ecommerce pertama diindonesia](https://lapakgrafi.com).\
+### Posts
+- Github: [elfirman](http://github.com/elfirman)
+- Medium: [@elfirman](http://medium.com/@elfirman)
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ismailfirman/)ku ya.
+### Creative Platforms
+- Soundcloud: [elfirman](http://soundcloud.com/elfirman)
+- Dribbble:	[elfirman](http://dribbble.com/elfirman)
+- Behance: [elfirman](https://www.behance.net/elfirman)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=elfirman/elfirman)
+
