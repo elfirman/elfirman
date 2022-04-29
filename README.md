@@ -10,7 +10,7 @@ Check the detail from [**My Website**](http://ismailfirman.tech)
 
 ✔️ **I'm currently open for every opportunity!**
 Interested in working with me? Need help on your project? Or just wanna say hi? I’d love to hear you about that.
-**contact@ismailfirman.tech**
+**ismailfirman1501@gmail.com**
 
 ### Socials
 - LinkedIn: [ismailfirman](http://linkedin.com/in/ismailfirman)
