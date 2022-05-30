@@ -14,7 +14,6 @@ Interested in working with me? Need help on your project? Or just wanna say hi? 
 
 ### Socials
 - LinkedIn: [ismailfirman](http://linkedin.com/in/ismailfirman)
-- Twitter: [@elfirman](http://twitter.com/kazuiel)
 - Instagram: [@ismailfirman](http://instagram.com/ismailfirman)
 
 ### Posts
